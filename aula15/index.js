@@ -5,5 +5,7 @@ let num1 = 9.54578;
 
 //console.log(Math.max(1,2,3,4,5,-10,-50,1500,9,8,7,6)); //retorna o maior numero passado.
 //console.log(Math.min(1,2,3,4,5,-10,-50,1500,9,8,7,6)); //retorna o menor numero passado.
-const aleatorio = Math.random() * (10 - 5) + 5;//retorna um numero aleatorio entre 0 e 1
-console.log( Math.round(aleatorio)); 
+//const aleatorio = Math.round( Math.random() * (10 - 5) + 5);//retorna um numero aleatorio entre 0 e 1
+
+
+console.log(aleatorio); 
